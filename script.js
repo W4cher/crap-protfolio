@@ -103,6 +103,7 @@ if (BMIJonh > BMIMark) {
 
 // arrawFun();
 // blablabla
+//jdnskndksnkdns
 
 const arrayBatery = new Array();
 arrayBatery[0] = 1;
